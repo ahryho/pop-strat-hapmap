@@ -1,6 +1,6 @@
 # HapMap
 
-The single nucleotide polymorphisms (SNPs) are genetic variations which determine the diference between any two unrelated individuals, the SNPs can be used to identify the correct source population of an individual. For ecient population identification with the HapMap genotype data, as few informative SNPs as possible are required from
+The single nucleotide polymorphisms (SNPs) are genetic variations which determine the diference between any two unrelated individuals, the SNPs can be used to identify the correct source population of an individual. For eficient population identification with the HapMap genotype data, as few informative SNPs as possible are required from
 the original 4 million SNPs. Recently, Park et al. (2006) adopted the nearest shrunken
 centroid method to classify the three populations, i.e., Utah residents with ancestry from
 Northern and Western Europe (CEU), Yoruba in Ibadan, Nigeria in West Africa (YRI),
