@@ -10,6 +10,4 @@ populations.
 The purpose was to perform a multivariate approach of the dataset such
 as visualization and clustering, and to build predictive models that could classify the
 given populations. As classification algorithms, k-nearest neighbor (k-NN), Linear and
-Quadratic Discriminative Analysis, Naive Bayes, Support Vector Machine (SVM), Deci-
-sion Trees and Random Forest were used to evaluate the success of the models according
-to their accuracy, specificity, sensitivity.
+Quadratic Discriminative Analysis, Naive Bayes, Support Vector Machine (SVM), Decision Trees and Random Forest were used to evaluate the success of the models according to their accuracy, specificity, sensitivity.
